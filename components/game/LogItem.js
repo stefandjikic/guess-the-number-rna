@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     width: "100%",
-    // adnroid
+    // android
     elevation: 4,
     // iOS
     shadowColor: "#000",
